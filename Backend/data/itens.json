@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "nome": "Espada de Fogo",
+      "tipo": "Arma",
+      "preco": 1000
+    },
+    {
+      "id": 2,
+      "nome": "Escudo de Ferro",
+      "tipo": "Defesa",
+      "preco": 500
+    },
+    {
+      "id": 3,
+      "nome": "Poção de Cura",
+      "tipo": "Item",
+      "preco": 50
+    }
+  ]
+  
